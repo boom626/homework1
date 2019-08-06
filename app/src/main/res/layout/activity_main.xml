@@ -183,6 +183,7 @@
         android:layout_height="35dp"
         android:background="@drawable/buttonshape"
         android:text="NEXT"
+        android:gravity="center"
         android:textColor="#030303"
         android:typeface="normal"
         app:layout_constraintBottom_toBottomOf="parent"
