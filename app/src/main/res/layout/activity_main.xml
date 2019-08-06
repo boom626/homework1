@@ -179,9 +179,12 @@
 
     <Button
         android:id="@+id/button_next"
-        android:layout_width="109dp"
-        android:layout_height="40dp"
+        android:layout_width="111dp"
+        android:layout_height="35dp"
+        android:background="@drawable/buttonshape"
         android:text="NEXT"
+        android:textColor="#030303"
+        android:typeface="normal"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
