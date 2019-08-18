@@ -1,5 +1,10 @@
 <resources>
-    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar"/>
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item><!-- action bar -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item><!-- status bar -->
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
 
     <style name="AppTheme.FullScreen">   //สืบทอดจาก style name="AppTheme" หลัก เพิ่มจุด กำหนดบางอย่างเพิ่ม code ปิดทั้ง แอพบาร์ และตัววันที่(สเตตัสบาร์)
         <item name="windowNoTitle">true</item>
