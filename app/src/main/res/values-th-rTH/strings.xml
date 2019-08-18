@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="countDown">นับถอยหลังวันเลือกตั้ง</string>
+    <string name="days">วัน</string>
+    <string name="hours">ชั่วโมง</string>
+    <string name="minutes">นาที</string>
+    <string name="next">ถัดไป</string>
+    <string name="seconds">วินาที</string>
+    <string name="num_24">๒๔</string>
+    <string name="num_365">๓๖๕</string>
+    <string name="num_60">๖๐</string>
+</resources>
