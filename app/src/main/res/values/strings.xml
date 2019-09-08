@@ -11,6 +11,5 @@
     <string name="seconds">Seconds</string>
     <string name="next">NEXT</string>
     <string name="days">Days</string>
-    <string name="vote">vote</string>
+    <string name="vote" translatable="false">vote</string>
 </resources>
-ื
